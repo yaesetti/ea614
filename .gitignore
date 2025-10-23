@@ -4,3 +4,8 @@
 # Ignora o ambiente virtual do Python
 .venv
 
+# Ignora a pasta do VSCode
+.vscode
+
+# Ignora .zips
+*.zip
