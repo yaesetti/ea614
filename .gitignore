@@ -1,0 +1,6 @@
+# Ignora o arquivo comum do MacOS
+.DS_Store
+
+# Ignora o ambiente virtual do Python
+.venv
+
